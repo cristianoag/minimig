@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="126.5mm"
+   height="126.5mm"
+   viewBox="0 0 126.5 126.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="minimig_bottom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#c3c3c3"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4770342"
+     inkscape:cx="326.66812"
+     inkscape:cy="199.72455"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(18.10887,-25.957479)">
+    <path
+       d="m -14.85887,29.207479 v 6.375 h -3 v 8.25 h 3 v 8.25 h -3 v 8.25 h 3 v 8.25 h -3 v 8.25 h 3 v 8.25 h -3 v 8.25 h 3 v 8.250001 h -3 v 8.25 h 3 v 8.25 h -3 v 8.25 h 3 v 8.25 h -3 v 8.25 h 3 v 6.375 h 6.375 v 3 h 8.25 v -3 h 8.25 v 3 h 8.25 v -3 h 8.25 v 3 h 8.25 v -3 h 8.25 v 3 h 8.25 v -3 h 8.25 v 3 h 8.25 v -3 h 8.25 v 3 h 8.25 v -3 h 8.25 v 3 h 8.25 v -3 h 6.375 v -6.375 h 3 v -8.25 h -3 v -8.25 h 3 v -8.25 h -3 v -8.25 h 3 v -8.25 h -3 v -8.250001 h 3 v -8.25 h -3 v -8.25 h 3 v -8.25 h -3 v -8.25 h 3 v -8.25 h -3 v -8.25 h 3 v -8.25 h -3 v -6.375 h -6.375 v -3 h -8.25 v 3 h -8.25 v -3 h -8.25 v 3 h -8.25 v -3 h -8.25 v 3 h -8.25 v -3 h -8.25 v 3 h -8.25 v -3 h -8.25 v 3 h -8.25 v -3 h -8.25 v 3 h -8.25 v -3 h -8.25 v 3 z"
+       id="bottom_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       vector-effect="non-scaling-stroke" />
+    <circle
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0570985;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="circle1044"
+       cx="100.39113"
+       cy="33.957478"
+       r="1.7214508" />
+    <circle
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0570985;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="circle1795"
+       cx="-10.108867"
+       cy="33.957478"
+       r="1.7214508" />
+    <circle
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0570985;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="circle1801"
+       cx="-10.108867"
+       cy="144.45747"
+       r="1.7214508" />
+    <circle
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0570985;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="circle1807"
+       cx="100.39113"
+       cy="144.45747"
+       r="1.7214508" />
+  </g>
+</svg>

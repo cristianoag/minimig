@@ -6,3 +6,6 @@ engrave 2500 speed 500 power
 mdf 3mm
 cut 120 speed 1000 power
 engrave 2500 speed 800 power
+
+black acrylic 3mm
+cut 120 speed 1000 power
